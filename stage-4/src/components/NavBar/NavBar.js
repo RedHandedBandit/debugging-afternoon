@@ -14,6 +14,7 @@ class NavBar extends Component {
 
     render() {
         return (
+            
             <div>
                 <div className="navbar-container">
                     <div className="logo-container">
@@ -30,6 +31,7 @@ class NavBar extends Component {
                 </div>
                 <hr />
             </div>
+            
         )
     }
 }
